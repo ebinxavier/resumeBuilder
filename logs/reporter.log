@@ -1,0 +1,51 @@
+2019-11-24T12:50:21.951Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-24T12:50:21.953Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T12:50:21.959Z - info: Extensions location cache doesn't contain entry yet, crawling
+2019-11-24T12:50:22.196Z - info: Found 35 extensions
+2019-11-24T12:50:22.473Z - info: Setting http-server strategy for rendering
+2019-11-24T12:50:22.681Z - info: Using extension handlebars@2.1.0
+2019-11-24T12:50:22.686Z - info: Using extension jsrender@2.1.1
+2019-11-24T12:50:22.687Z - info: Using extension templates@2.3.2
+2019-11-24T12:50:22.692Z - info: Using extension import-export@1.4.0
+2019-11-24T12:50:22.746Z - info: Using extension freeze@2.0.0
+2019-11-24T12:50:22.748Z - info: Using extension cli@2.1.1
+2019-11-24T12:50:22.749Z - info: Using extension express@2.5.0
+2019-11-24T12:50:22.926Z - info: Using extension debug@2.1.1
+2019-11-24T12:50:22.928Z - info: Using extension tags@2.3.0
+2019-11-24T12:50:22.931Z - info: Using extension docx@2.3.1
+2019-11-24T12:50:22.968Z - info: Using extension chrome-pdf@1.6.1
+2019-11-24T12:50:23.059Z - info: Using extension fs-store@2.6.0
+2019-11-24T12:50:23.486Z - info: Using extension authorization@2.2.5
+2019-11-24T12:50:23.490Z - info: Using extension child-templates@1.3.0
+2019-11-24T12:50:23.494Z - info: Using extension browser-client@2.2.1
+2019-11-24T12:50:23.498Z - info: Using extension licensing@2.1.2
+2019-11-24T12:50:23.503Z - info: Using extension data@2.1.0
+2019-11-24T12:50:23.504Z - info: Using extension pptx@0.4.1
+2019-11-24T12:50:23.514Z - info: Using extension version-control@1.3.2
+2019-11-24T12:50:23.627Z - info: Using extension reports@2.2.0
+2019-11-24T12:50:23.631Z - info: Using extension text@2.0.0
+2019-11-24T12:50:23.632Z - info: Using extension base@2.0.2
+2019-11-24T12:50:23.633Z - info: Using extension static-pdf@0.3.1
+2019-11-24T12:50:23.639Z - info: Using extension studio@2.6.6
+2019-11-24T12:50:23.699Z - info: Using extension pdf-utils@1.5.2
+2019-11-24T12:50:23.875Z - info: Using extension scripts@2.2.1
+2019-11-24T12:50:23.880Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-24T12:50:24.025Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-24T12:50:24.025Z - info: Using extension assets@1.5.1
+2019-11-24T12:50:24.039Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-24T12:50:24.040Z - info: Using extension scheduling@2.1.1
+2019-11-24T12:50:24.088Z - info: Using extension xlsx@2.2.1
+2019-11-24T12:50:24.202Z - info: Using extension sample-template@2.4.0
+2019-11-24T12:50:24.204Z - info: Using extension resources@2.0.3
+2019-11-24T12:50:24.205Z - info: Using extension public-templates@2.1.0
+2019-11-24T12:50:24.209Z - info: Using fs provider for template store.
+2019-11-24T12:50:24.214Z - info: fs store is persisting using fs
+2019-11-24T12:50:24.214Z - info: fs store is synchronizing using fs
+2019-11-24T12:50:24.221Z - info: fs store is loading data
+2019-11-24T12:50:24.293Z - info: fs store is initialized successfully
+2019-11-24T12:50:24.319Z - info: Creating default express app.
+2019-11-24T12:50:24.347Z - info: jsreport server successfully started on http port: 5488
+2019-11-24T12:50:24.347Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-11-24T12:50:24.355Z - info: Verifying license key free
+2019-11-24T12:50:24.356Z - info: Using free license
+2019-11-24T12:50:24.358Z - info: reporter initialized
