@@ -49,3 +49,279 @@
 2019-11-24T12:50:24.355Z - info: Verifying license key free
 2019-11-24T12:50:24.356Z - info: Using free license
 2019-11-24T12:50:24.358Z - info: reporter initialized
+2019-11-24T13:17:48.008Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-24T13:17:48.009Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:17:48.015Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:17:48.027Z - info: Found 35 extensions
+2019-11-24T13:17:48.349Z - info: Setting http-server strategy for rendering
+2019-11-24T13:17:48.568Z - info: Using extension handlebars@2.1.0
+2019-11-24T13:17:48.573Z - info: Using extension jsrender@2.1.1
+2019-11-24T13:17:48.575Z - info: Using extension templates@2.3.2
+2019-11-24T13:17:48.579Z - info: Using extension import-export@1.4.0
+2019-11-24T13:17:48.636Z - info: Using extension freeze@2.0.0
+2019-11-24T13:17:48.637Z - info: Using extension cli@2.1.1
+2019-11-24T13:17:48.640Z - info: Using extension express@2.5.0
+2019-11-24T13:17:48.820Z - info: Using extension debug@2.1.1
+2019-11-24T13:17:48.822Z - info: Using extension tags@2.3.0
+2019-11-24T13:17:48.825Z - info: Using extension docx@2.3.1
+2019-11-24T13:17:48.866Z - info: Using extension chrome-pdf@1.6.1
+2019-11-24T13:17:48.969Z - info: Using extension fs-store@2.6.0
+2019-11-24T13:17:49.437Z - info: Using extension authorization@2.2.5
+2019-11-24T13:17:49.442Z - info: Using extension child-templates@1.3.0
+2019-11-24T13:17:49.446Z - info: Using extension browser-client@2.2.1
+2019-11-24T13:17:49.448Z - info: Using extension licensing@2.1.2
+2019-11-24T13:17:49.452Z - info: Using extension data@2.1.0
+2019-11-24T13:17:49.453Z - info: Using extension pptx@0.4.1
+2019-11-24T13:17:49.461Z - info: Using extension version-control@1.3.2
+2019-11-24T13:17:49.586Z - info: Using extension reports@2.2.0
+2019-11-24T13:17:49.591Z - info: Using extension text@2.0.0
+2019-11-24T13:17:49.592Z - info: Using extension base@2.0.2
+2019-11-24T13:17:49.594Z - info: Using extension static-pdf@0.3.1
+2019-11-24T13:17:49.598Z - info: Using extension studio@2.6.6
+2019-11-24T13:17:49.684Z - info: Using extension pdf-utils@1.5.2
+2019-11-24T13:17:49.884Z - info: Using extension scripts@2.2.1
+2019-11-24T13:17:49.891Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-24T13:17:50.031Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-24T13:17:50.032Z - info: Using extension assets@1.5.1
+2019-11-24T13:17:50.043Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-24T13:17:50.044Z - info: Using extension scheduling@2.1.1
+2019-11-24T13:17:50.095Z - info: Using extension xlsx@2.2.1
+2019-11-24T13:17:50.245Z - info: Using extension sample-template@2.4.0
+2019-11-24T13:17:50.247Z - info: Using extension resources@2.0.3
+2019-11-24T13:17:50.249Z - info: Using extension public-templates@2.1.0
+2019-11-24T13:17:50.255Z - info: Using fs provider for template store.
+2019-11-24T13:17:50.260Z - info: fs store is persisting using fs
+2019-11-24T13:17:50.261Z - info: fs store is synchronizing using fs
+2019-11-24T13:17:50.283Z - info: fs store is loading data
+2019-11-24T13:17:50.384Z - info: fs store is initialized successfully
+2019-11-24T13:17:50.402Z - info: Creating default express app.
+2019-11-24T13:17:50.432Z - info: jsreport server successfully started on http port: 5488
+2019-11-24T13:17:50.432Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-11-24T13:17:50.438Z - info: Verifying license key free
+2019-11-24T13:17:50.439Z - info: Using free license
+2019-11-24T13:17:50.444Z - info: reporter initialized
+2019-11-24T13:18:24.077Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-24T13:18:24.078Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:18:24.084Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:18:24.092Z - info: Found 35 extensions
+2019-11-24T13:18:24.423Z - info: Setting http-server strategy for rendering
+2019-11-24T13:18:24.658Z - info: Using extension handlebars@2.1.0
+2019-11-24T13:18:24.664Z - info: Using extension jsrender@2.1.1
+2019-11-24T13:18:24.666Z - info: Using extension templates@2.3.2
+2019-11-24T13:18:24.670Z - info: Using extension import-export@1.4.0
+2019-11-24T13:18:24.733Z - info: Using extension freeze@2.0.0
+2019-11-24T13:18:24.736Z - info: Using extension cli@2.1.1
+2019-11-24T13:18:24.738Z - info: Using extension express@2.5.0
+2019-11-24T13:18:24.908Z - info: Using extension debug@2.1.1
+2019-11-24T13:18:24.911Z - info: Using extension tags@2.3.0
+2019-11-24T13:18:24.913Z - info: Using extension docx@2.3.1
+2019-11-24T13:18:24.945Z - info: Using extension chrome-pdf@1.6.1
+2019-11-24T13:18:25.039Z - info: Using extension fs-store@2.6.0
+2019-11-24T13:18:25.466Z - info: Using extension authorization@2.2.5
+2019-11-24T13:18:25.469Z - info: Using extension child-templates@1.3.0
+2019-11-24T13:18:25.477Z - info: Using extension browser-client@2.2.1
+2019-11-24T13:18:25.481Z - info: Using extension licensing@2.1.2
+2019-11-24T13:18:25.484Z - info: Using extension data@2.1.0
+2019-11-24T13:18:25.485Z - info: Using extension pptx@0.4.1
+2019-11-24T13:18:25.492Z - info: Using extension version-control@1.3.2
+2019-11-24T13:18:25.587Z - info: Using extension reports@2.2.0
+2019-11-24T13:18:25.591Z - info: Using extension text@2.0.0
+2019-11-24T13:18:25.596Z - info: Using extension base@2.0.2
+2019-11-24T13:18:25.599Z - info: Using extension static-pdf@0.3.1
+2019-11-24T13:18:25.603Z - info: Using extension studio@2.6.6
+2019-11-24T13:18:25.684Z - info: Using extension pdf-utils@1.5.2
+2019-11-24T13:18:25.833Z - info: Using extension scripts@2.2.1
+2019-11-24T13:18:25.840Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-24T13:18:25.937Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-24T13:18:25.937Z - info: Using extension assets@1.5.1
+2019-11-24T13:18:25.950Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-24T13:18:25.952Z - info: Using extension scheduling@2.1.1
+2019-11-24T13:18:25.988Z - info: Using extension xlsx@2.2.1
+2019-11-24T13:18:26.086Z - info: Using extension sample-template@2.4.0
+2019-11-24T13:18:26.088Z - info: Using extension resources@2.0.3
+2019-11-24T13:18:26.089Z - info: Using extension public-templates@2.1.0
+2019-11-24T13:18:26.099Z - info: Using fs provider for template store.
+2019-11-24T13:18:26.103Z - info: fs store is persisting using fs
+2019-11-24T13:18:26.103Z - info: fs store is synchronizing using fs
+2019-11-24T13:18:26.110Z - info: fs store is loading data
+2019-11-24T13:18:26.219Z - info: fs store is initialized successfully
+2019-11-24T13:18:26.236Z - info: Creating default express app.
+2019-11-24T13:18:26.265Z - info: jsreport server successfully started on http port: 5488
+2019-11-24T13:18:26.266Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-11-24T13:18:26.280Z - info: Verifying license key free
+2019-11-24T13:18:26.281Z - info: Using free license
+2019-11-24T13:18:26.284Z - info: reporter initialized
+2019-11-24T13:18:58.792Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-24T13:18:58.795Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:18:58.801Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-24T13:18:58.817Z - info: Found 35 extensions
+2019-11-24T13:18:59.133Z - info: Setting http-server strategy for rendering
+2019-11-24T13:18:59.335Z - info: Using extension handlebars@2.1.0
+2019-11-24T13:18:59.341Z - info: Using extension jsrender@2.1.1
+2019-11-24T13:18:59.342Z - info: Using extension templates@2.3.2
+2019-11-24T13:18:59.348Z - info: Using extension import-export@1.4.0
+2019-11-24T13:18:59.412Z - info: Using extension freeze@2.0.0
+2019-11-24T13:18:59.414Z - info: Using extension cli@2.1.1
+2019-11-24T13:18:59.416Z - info: Using extension express@2.5.0
+2019-11-24T13:18:59.599Z - info: Using extension debug@2.1.1
+2019-11-24T13:18:59.601Z - info: Using extension tags@2.3.0
+2019-11-24T13:18:59.604Z - info: Using extension docx@2.3.1
+2019-11-24T13:18:59.641Z - info: Using extension chrome-pdf@1.6.1
+2019-11-24T13:18:59.746Z - info: Using extension fs-store@2.6.0
+2019-11-24T13:19:00.244Z - info: Using extension authorization@2.2.5
+2019-11-24T13:19:00.248Z - info: Using extension child-templates@1.3.0
+2019-11-24T13:19:00.252Z - info: Using extension browser-client@2.2.1
+2019-11-24T13:19:00.254Z - info: Using extension licensing@2.1.2
+2019-11-24T13:19:00.259Z - info: Using extension data@2.1.0
+2019-11-24T13:19:00.261Z - info: Using extension pptx@0.4.1
+2019-11-24T13:19:00.271Z - info: Using extension version-control@1.3.2
+2019-11-24T13:19:00.407Z - info: Using extension reports@2.2.0
+2019-11-24T13:19:00.411Z - info: Using extension text@2.0.0
+2019-11-24T13:19:00.412Z - info: Using extension base@2.0.2
+2019-11-24T13:19:00.414Z - info: Using extension static-pdf@0.3.1
+2019-11-24T13:19:00.420Z - info: Using extension studio@2.6.6
+2019-11-24T13:19:00.497Z - info: Using extension pdf-utils@1.5.2
+2019-11-24T13:19:00.676Z - info: Using extension scripts@2.2.1
+2019-11-24T13:19:00.681Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-24T13:19:00.804Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-24T13:19:00.804Z - info: Using extension assets@1.5.1
+2019-11-24T13:19:00.812Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-24T13:19:00.813Z - info: Using extension scheduling@2.1.1
+2019-11-24T13:19:00.851Z - info: Using extension xlsx@2.2.1
+2019-11-24T13:19:00.976Z - info: Using extension sample-template@2.4.0
+2019-11-24T13:19:00.979Z - info: Using extension resources@2.0.3
+2019-11-24T13:19:00.980Z - info: Using extension public-templates@2.1.0
+2019-11-24T13:19:00.983Z - info: Using fs provider for template store.
+2019-11-24T13:19:00.988Z - info: fs store is persisting using fs
+2019-11-24T13:19:00.988Z - info: fs store is synchronizing using fs
+2019-11-24T13:19:00.991Z - info: fs store is loading data
+2019-11-24T13:19:01.074Z - info: fs store is initialized successfully
+2019-11-24T13:19:01.086Z - info: Creating default express app.
+2019-11-24T13:19:01.109Z - info: jsreport server successfully started on http port: 3333
+2019-11-24T13:19:01.110Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-11-24T13:19:01.118Z - info: Verifying license key free
+2019-11-24T13:19:01.118Z - info: Using free license
+2019-11-24T13:19:01.121Z - info: reporter initialized
+2019-11-26T06:18:05.366Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-26T06:18:05.369Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-26T06:18:05.376Z - info: Extensions location cache not found, crawling directories
+2019-11-26T06:18:05.781Z - info: Found 35 extensions
+2019-11-26T06:18:06.103Z - info: Setting http-server strategy for rendering
+2019-11-26T06:18:06.312Z - info: Using extension handlebars@2.1.0
+2019-11-26T06:18:06.319Z - info: Using extension jsrender@2.1.1
+2019-11-26T06:18:06.320Z - info: Using extension templates@2.3.2
+2019-11-26T06:18:06.324Z - info: Using extension import-export@1.4.0
+2019-11-26T06:18:06.389Z - info: Using extension freeze@2.0.0
+2019-11-26T06:18:06.391Z - info: Using extension cli@2.1.1
+2019-11-26T06:18:06.393Z - info: Using extension express@2.5.0
+2019-11-26T06:18:06.574Z - info: Using extension debug@2.1.1
+2019-11-26T06:18:06.577Z - info: Using extension tags@2.3.0
+2019-11-26T06:18:06.579Z - info: Using extension docx@2.3.1
+2019-11-26T06:18:06.615Z - info: Using extension chrome-pdf@1.6.1
+2019-11-26T06:18:06.722Z - info: Using extension fs-store@2.6.0
+2019-11-26T06:18:07.165Z - info: Using extension authorization@2.2.5
+2019-11-26T06:18:07.169Z - info: Using extension child-templates@1.3.0
+2019-11-26T06:18:07.172Z - info: Using extension browser-client@2.2.1
+2019-11-26T06:18:07.174Z - info: Using extension licensing@2.1.2
+2019-11-26T06:18:07.176Z - info: Using extension data@2.1.0
+2019-11-26T06:18:07.177Z - info: Using extension pptx@0.4.1
+2019-11-26T06:18:07.183Z - info: Using extension version-control@1.3.2
+2019-11-26T06:18:07.278Z - info: Using extension reports@2.2.0
+2019-11-26T06:18:07.287Z - info: Using extension text@2.0.0
+2019-11-26T06:18:07.289Z - info: Using extension base@2.0.2
+2019-11-26T06:18:07.291Z - info: Using extension static-pdf@0.3.1
+2019-11-26T06:18:07.295Z - info: Using extension studio@2.6.6
+2019-11-26T06:18:07.370Z - info: Using extension pdf-utils@1.5.2
+2019-11-26T06:18:07.543Z - info: Using extension scripts@2.2.1
+2019-11-26T06:18:07.553Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-26T06:18:07.649Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-26T06:18:07.649Z - info: Using extension assets@1.5.1
+2019-11-26T06:18:07.661Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-26T06:18:07.662Z - info: Using extension scheduling@2.1.1
+2019-11-26T06:18:07.702Z - info: Using extension xlsx@2.2.1
+2019-11-26T06:18:07.799Z - info: Using extension sample-template@2.4.0
+2019-11-26T06:18:07.801Z - info: Using extension resources@2.0.3
+2019-11-26T06:18:07.822Z - info: Using extension public-templates@2.1.0
+2019-11-26T06:18:07.826Z - info: Using fs provider for template store.
+2019-11-26T06:18:07.851Z - info: fs store is persisting using fs
+2019-11-26T06:18:07.858Z - info: fs store is synchronizing using fs
+2019-11-26T06:18:07.896Z - info: fs store is loading data
+2019-11-26T06:18:08.009Z - info: fs store is initialized successfully
+2019-11-26T06:18:08.027Z - info: Creating default express app.
+2019-11-26T06:18:08.049Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1277:14)
+    at listenInCluster (net.js:1325:12)
+    at Server.listen (net.js:1412:7)
+    at Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:23:12)
+    at Promise._execute (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:79:10)
+    at startAsync (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:17:10)
+    at steps.push (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:51:14)
+    at Object.start (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:125:13)
+    at Object.reporter.initializeListeners.add (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:309:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-11-26T06:18:08.053Z - error: Error occured during reporter init Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1277:14)
+    at listenInCluster (net.js:1325:12)
+    at Server.listen (net.js:1412:7)
+    at Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:23:12)
+    at Promise._execute (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:79:10)
+    at startAsync (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:17:10)
+    at steps.push (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:51:14)
+    at Object.start (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:125:13)
+    at Object.reporter.initializeListeners.add (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:309:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-11-26T06:18:22.430Z - info: Initializing jsreport@2.6.1 in development mode using configuration file: jsreport.config.json
+2019-11-26T06:18:22.433Z - info: Searching for available extensions in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-26T06:18:22.438Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/
+2019-11-26T06:18:22.444Z - info: Found 35 extensions
+2019-11-26T06:18:22.605Z - info: Setting http-server strategy for rendering
+2019-11-26T06:18:22.812Z - info: Using extension handlebars@2.1.0
+2019-11-26T06:18:22.816Z - info: Using extension jsrender@2.1.1
+2019-11-26T06:18:22.818Z - info: Using extension templates@2.3.2
+2019-11-26T06:18:22.820Z - info: Using extension import-export@1.4.0
+2019-11-26T06:18:22.858Z - info: Using extension freeze@2.0.0
+2019-11-26T06:18:22.859Z - info: Using extension cli@2.1.1
+2019-11-26T06:18:22.860Z - info: Using extension express@2.5.0
+2019-11-26T06:18:22.939Z - info: Using extension debug@2.1.1
+2019-11-26T06:18:22.940Z - info: Using extension tags@2.3.0
+2019-11-26T06:18:22.942Z - info: Using extension docx@2.3.1
+2019-11-26T06:18:22.955Z - info: Using extension chrome-pdf@1.6.1
+2019-11-26T06:18:23.002Z - info: Using extension fs-store@2.6.0
+2019-11-26T06:18:23.161Z - info: Using extension authorization@2.2.5
+2019-11-26T06:18:23.163Z - info: Using extension child-templates@1.3.0
+2019-11-26T06:18:23.165Z - info: Using extension browser-client@2.2.1
+2019-11-26T06:18:23.166Z - info: Using extension licensing@2.1.2
+2019-11-26T06:18:23.168Z - info: Using extension data@2.1.0
+2019-11-26T06:18:23.170Z - info: Using extension pptx@0.4.1
+2019-11-26T06:18:23.175Z - info: Using extension version-control@1.3.2
+2019-11-26T06:18:23.221Z - info: Using extension reports@2.2.0
+2019-11-26T06:18:23.223Z - info: Using extension text@2.0.0
+2019-11-26T06:18:23.223Z - info: Using extension base@2.0.2
+2019-11-26T06:18:23.224Z - info: Using extension static-pdf@0.3.1
+2019-11-26T06:18:23.226Z - info: Using extension studio@2.6.6
+2019-11-26T06:18:23.285Z - info: Using extension pdf-utils@1.5.2
+2019-11-26T06:18:23.386Z - info: Using extension scripts@2.2.1
+2019-11-26T06:18:23.389Z - info: Using extension html-to-xlsx@2.4.1
+2019-11-26T06:18:23.448Z - info: html-to-xlsx detected chrome as available html engine
+2019-11-26T06:18:23.448Z - info: Using extension assets@1.5.1
+2019-11-26T06:18:23.452Z - info: Using extension studio-theme-dark@0.2.0
+2019-11-26T06:18:23.453Z - info: Using extension scheduling@2.1.1
+2019-11-26T06:18:23.474Z - info: Using extension xlsx@2.2.1
+2019-11-26T06:18:23.526Z - info: Using extension sample-template@2.4.0
+2019-11-26T06:18:23.527Z - info: Using extension resources@2.0.3
+2019-11-26T06:18:23.528Z - info: Using extension public-templates@2.1.0
+2019-11-26T06:18:23.529Z - info: Using fs provider for template store.
+2019-11-26T06:18:23.532Z - info: fs store is persisting using fs
+2019-11-26T06:18:23.532Z - info: fs store is synchronizing using fs
+2019-11-26T06:18:23.537Z - info: fs store is loading data
+2019-11-26T06:18:23.630Z - info: fs store is initialized successfully
+2019-11-26T06:18:23.646Z - info: Creating default express app.
+2019-11-26T06:18:23.658Z - info: jsreport server successfully started on http port: 3456
+2019-11-26T06:18:23.658Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-11-26T06:18:23.663Z - info: Verifying license key free
+2019-11-26T06:18:23.664Z - info: Using free license
+2019-11-26T06:18:23.670Z - info: reporter initialized

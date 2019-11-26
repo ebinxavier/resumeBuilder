@@ -1,0 +1,13 @@
+2019-11-26T06:18:08.049Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1277:14)
+    at listenInCluster (net.js:1325:12)
+    at Server.listen (net.js:1412:7)
+    at Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:23:12)
+    at Promise._execute (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/bluebird/js/release/promise.js:79:10)
+    at startAsync (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:17:10)
+    at steps.push (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:51:14)
+    at Object.start (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:125:13)
+    at Object.reporter.initializeListeners.add (/Users/ebin/Desktop/R-And-D/Node/resumeBuilder/jsreportapp/node_modules/jsreport-express/lib/reporter.express.js:309:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
